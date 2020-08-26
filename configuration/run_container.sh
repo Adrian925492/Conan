@@ -11,5 +11,5 @@ docker run \
        -v `pwd`:/repo \
        -w /repo\
        --name conan_example \
-       conan_example_image \
+       conan_exampl_image \
        "$@"
